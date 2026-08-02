@@ -1,10 +1,14 @@
-<img align="right" alt="coding" width="400" src="WiqN.gif"/>
+<p>
+  <img align="right" width="400" src="WiqN.gif"/>
+</p>
 
-### Hi 👋, I'm Aryan Mishra
+<p>
+<b style="font-size:36px;">Hi 👋, I'm Aryan Mishra</b>
+</p>
 
-<h3>Full-Stack Developer | AI & Distributed Systems Enthusiast</h3>
-
-I enjoy building developer tools, AI-powered applications, and distributed systems with a focus on solving real engineering problems.
+<p>
+<b>Full-Stack Developer | AI & Distributed Systems Enthusiast</b>
+</p>
 
 ### 💫 About Me
 
