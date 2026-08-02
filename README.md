@@ -1,8 +1,8 @@
 <p>
-  <img align="right" width="400" src="WiqN.gif"/>
+   <img align="right" width="400" hspace="20" src="WiqN.gif"/>
 </p>
 
-# Hi 👋, I'm Aryan Mishra
+### Hi 👋, I'm Aryan Mishra
 
 <p>
 <b>Full-Stack Developer | AI & Distributed Systems Enthusiast</b>
