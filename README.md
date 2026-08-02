@@ -2,9 +2,7 @@
   <img align="right" width="400" src="WiqN.gif"/>
 </p>
 
-<p>
-<b style="font-size:36px;">Hi 👋, I'm Aryan Mishra</b>
-</p>
+# Hi 👋, I'm Aryan Mishra
 
 <p>
 <b>Full-Stack Developer | AI & Distributed Systems Enthusiast</b>
